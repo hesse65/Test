@@ -1,6 +1,7 @@
 ##Farbpalette
 
 red
-blue
+darkblue
+lightblue
 green
 yello
